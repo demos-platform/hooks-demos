@@ -1,3 +1,4 @@
+// 练习 useState 的使用, 调用 localStorage
 import { useState } from 'react';
 
 function useLocalStorage(key, value) {
